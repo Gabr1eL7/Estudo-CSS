@@ -21,12 +21,17 @@ body{
     background-color:white;
     overflow-y: hidden;
 }
+header{
+    background-color: darkkhaki;
+   
+    padding: 12px;
+}
 
 header > h1{
     color:var(--color);
     font-family: var(--fonttitulo);
     font-size: 32px;
-    background-color:var(--backgroud-degrade) ;
+    background-color: darkolivegreen;
 }
 
 h2{
